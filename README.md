@@ -1,2 +1,4 @@
 # Website-customer-behavior-analysis
-The data is provided with Timestamp, UserID and website section visited and conversion data that includes Products Purchased and Overall cart value. Required task is to build features and model on the provided data of users to calculate a score/rank for conversion probability of that user.
+Problem: The client is an online ecommerce player. They have shared a user-level log data for their browning behaviour (Timestamp, UserID and website section visited). You have been provided with the final conversion data too (Timestamp, UserID, Products purchased in the transaction, Overall cart value)
+
+Task: Based on this data you are required to build features and model on these characterstics of users to calculate a score/rank for conversion probability of that user.
